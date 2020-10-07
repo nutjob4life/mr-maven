@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+    <properties>
+        <title>Mr Maven</title>
+    </properties>
+    <body>
+        <section name='About Mr Maven'>
+            <p>This is an example Maven-based project solely for CI/CD tool testing 👨‍🏭</p>
+        </section>
+    </body>
+</document>
