@@ -16,7 +16,7 @@ jobs:
       - name: 🤠 Roundup
         uses: nutjob4life/roundup-action@maven
         with:
-          assembly: stable
+          assembly: unstable
         env:
           pypi_username: ${{secrets.PYPI_USERNAME}}
           pypi_password: ${{secrets.PYPI_PASSWORD}}
