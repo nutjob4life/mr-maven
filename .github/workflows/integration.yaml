@@ -14,7 +14,7 @@ jobs:
       - name: 💳 Checking out
         uses: actions/checkout@v2
       - name: 🤠 Roundup
-        uses: nutjob4life/roundup-action@master
+        uses: nutjob4life/roundup-action@maven
         with:
           assembly: stable
         env:
