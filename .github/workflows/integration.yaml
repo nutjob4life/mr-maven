@@ -20,8 +20,8 @@ jobs:
         env:
           pypi_username: ${{secrets.PYPI_USERNAME}}
           pypi_password: ${{secrets.PYPI_PASSWORD}}
+          ossrh_username: ${{secrets.OSSRH_USERNAME}}
+          ossrh_password: ${{secrets.OSSRH_PASSWORD}}
           ADMIN_GITHUB_TOKEN: ${{secrets.PAT}}
 
 ...
-
-
