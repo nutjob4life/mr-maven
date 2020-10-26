@@ -1,6 +1,6 @@
 # 👨‍🏭 Mr Maven
 
-Mr Maven provides a system for cybermanagement of Maven that's a convenience and/or synthesis level "above" Maven, or a "meta" echelon. It uses focused regional approaches from a front-line "service desk" that encompasses abstract yet advanced optimizing parallelism. This in turn improves throughout in distributed workloads (optimized for Kubernetes or other contexts) with a single entry-point orchestration cross-platform organizational actuating hub.
+Mr Maven provides a system for cybermanagement of Maven that's a convenience and/or synthesis level "above" Maven, or a "meta" echelon. It uses focused regional approaches from a front-line "service desk" that encompasses abstract yet advanced optimizing parallelism. This in turn improves throughout in distributed workloads (optimized for Kubernetes or other contexts) with a single entry-point orchestration of a cross-platform organizational actuating hub.
 
 
 ## 🔧 Build It
