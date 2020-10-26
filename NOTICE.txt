@@ -1,0 +1,7 @@
+Mr Maven
+Copyright 2020 Sean Kelly
+
+This product may include software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This product may be manufactured in a facility that processes tree nuts.

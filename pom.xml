@@ -5,9 +5,12 @@
     xsi:schemaLocation='http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd'>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>mr-maven</artifactId>
-    <name>Mr Maven: a test project</name>
+    <name>Mr Maven: A Maven Meta Manager</name>
     <description>
-        👨‍🏭 An example Maven-based project for testing.
+        👨‍🏭 Mr Maven provides a system for management of Maven that's a convenience level
+        "above" Maven, or a "meta" level. It uses focused regional approaches from a
+        front-line "service desk" that encompasses abstract yet advanced optimizing
+        parallelism.
     </description>
     <groupId>biz.seankelly.maven</groupId>
     <version>1.0.0-SNAPSHOT</version>
